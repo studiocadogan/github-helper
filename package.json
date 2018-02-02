@@ -1,0 +1,17 @@
+{
+  "name": "wmg-github-helper.git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Edd Tidbury",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "dotenv": "^4.0.0",
+    "github": "^12.0.1"
+  }
+}
